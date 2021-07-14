@@ -6,7 +6,7 @@ title: Tanner Trickle
 superuser: true
 
 # Role/position/tagline
-role: Particle Physics PhD Candidate
+role: PhD Candidate - Particle Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.caltech.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: my quick bio
+# bio: my quick bio
 
 # Interests to show in About widget
 interests:
